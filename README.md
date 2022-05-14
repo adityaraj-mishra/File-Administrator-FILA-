@@ -20,7 +20,7 @@ A Simple python program that handles Files in provided directory. These files th
 - User-friendly 
 
 ## Screenshots
-![Output screenshot](IMG/output.jpeg)
+![Output screenshot](IMG/output.jpg)
 
 ## Setup
 Extract the given zipped file. You may use Winrar for this. 
